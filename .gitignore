@@ -1,5 +1,4 @@
 /.idea
 DataAnalitics/__pycache__/
-DataAnalitics/__init__
-proj/**/__init__
+/__init__.py
 /db.sqlite3
