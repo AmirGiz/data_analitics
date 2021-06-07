@@ -7,6 +7,7 @@ import nltk
 from nltk.stem import SnowballStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+nltk.download('punkt')
 nltk.download('stopwords')
 import string
 
